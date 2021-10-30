@@ -77,7 +77,9 @@ Azure DevOps can be used to automate the process used for [Key Rotation](source)
 
 ## Deploy This Scenario
 This scenario can be deployed by using the following ARM templates:
-[ARM Templates](source).
+- [SQL Managed Instance](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.sql/sql-managed-instance-azure-environment).
+- [Azure Key VAult](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.keyvault)
+
 
 
 ## Pricing
@@ -88,8 +90,3 @@ The additional costs of managing your own TDE keys, outside of added operational
 - Optional [Azure DevOps Pricing](https://azure.microsoft.com/en-gb/pricing/details/devops/azure-devops-services/)
 - Optional [Azure Automation Pricing](https://azure.microsoft.com/en-us/pricing/details/automation/#pricing)
 
-## Next Steps
-???
-
-## Related Resources
-??
